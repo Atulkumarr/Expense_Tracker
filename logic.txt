@@ -1,0 +1,47 @@
+1. Need values from description and amount
+// task we will do 
+a) target the needed elements  // done
+b) have to take the data on click of submit button // done 
+c) store that data in array // done
+
+2. input ke values ko item mein show karwana hoga
+// task we will do 
+a) target required items  //done
+b) display the data of array in items  //done
+
+
+3. or amount ka total your expenses mein show kawana hoga
+ a) target //done 
+ b) collect the amount   // done
+ c) add the amount // done
+ d) show the amount // done
+
+4. or jab koi close pe click kare tab item remove karwana hai  //done
+
+a) jab bhi koi click kare close button par tab li remove ho jai //done
+
+
+5. or jab koi close pe click kare to your expenses mein se amount  minus bhi karwana hai 
+a) collect the amount // done
+b) remove total // done  
+c) remove amount from array also // done
+
+
+have to do only few things 
+and choti choti detailing bhi end mein karni hai //done
+
+
+local storage wala end mein karna hai 
+Things i need to Store in local storage
+1. Store array 
+2. 
+3. click pe local storage se remove bhi karwana hoga
+
+things which i am planing to do 
+1. I will find out ke kis kis chijo ko mere ko store karna hai
+2. 
+
+
+Things we need to do 
+1. Complete understand that how to use return
+2. how to use this
